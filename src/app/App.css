@@ -1,0 +1,11 @@
+@font-face {
+    font-family: B-Nazanin;
+    src: url("../assets/fonts/irsans.ttf");
+}
+
+*{
+    direction: rtl;
+    font-family: B-Nazanin;
+    font-size: large;
+}
+

@@ -1,0 +1,189 @@
+{
+  "participants": [
+    {
+      "id": "m23lzkpo-mnra1z6v",
+      "name": "سعید",
+      "teamId": 1,
+      "gamePlayedNumber": 1,
+      "win": 1,
+      "draw": 0,
+      "lose": 0,
+      "goalDifference": {
+        "score": 3,
+        "concede": 2
+      },
+      "totalScore": 3,
+      "games": [
+        {
+          "id": "m23m0dpu-m7xc1x72",
+          "gameResult": "WIN"
+        }
+      ]
+    },
+    {
+      "id": "m23lzwpr-68sb2gwk",
+      "name": "صادق",
+      "teamId": 3,
+      "gamePlayedNumber": 0,
+      "win": 0,
+      "draw": 0,
+      "lose": 0,
+      "goalDifference": {
+        "score": 0,
+        "concede": 0
+      },
+      "totalScore": 0,
+      "games": []
+    },
+    {
+      "id": "m23m04o8-m630lk4e",
+      "name": "رضا",
+      "teamId": 2,
+      "gamePlayedNumber": 0,
+      "win": 0,
+      "draw": 0,
+      "lose": 0,
+      "goalDifference": {
+        "score": 0,
+        "concede": 0
+      },
+      "totalScore": 0,
+      "games": []
+    },
+    {
+      "id": "m23m0d9v-wj9quqgi",
+      "name": "بهزاد",
+      "teamId": 6,
+      "gamePlayedNumber": 1,
+      "win": 0,
+      "draw": 0,
+      "lose": 1,
+      "goalDifference": {
+        "score": 2,
+        "concede": 3
+      },
+      "totalScore": 0,
+      "games": [
+        {
+          "id": "m23m0dpu-m7xc1x72",
+          "gameResult": "LOSE"
+        }
+      ]
+    }
+  ],
+  "weeksGames": [
+    {
+      "weekGames": [
+        {
+          "id": "m23m0dpu-m7xc1x72",
+          "awayParticipantId": "m23m0d9v-wj9quqgi",
+          "homeParticipantId": "m23lzkpo-mnra1z6v",
+          "status": "PLAYED",
+          "homeParticipant": {
+            "id": "m23lzkpo-mnra1z6v",
+            "name": "سعید",
+            "teamId": 1,
+            "gamePlayedNumber": 0,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "goalDifference": {
+              "score": 0,
+              "concede": 0
+            },
+            "totalScore": 0,
+            "games": []
+          },
+          "awayParticipant": {
+            "id": "m23m0d9v-wj9quqgi",
+            "name": "بهزاد",
+            "teamId": 6,
+            "gamePlayedNumber": 0,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "goalDifference": {
+              "score": 0,
+              "concede": 0
+            },
+            "totalScore": 0,
+            "games": []
+          },
+          "homeScore": "3",
+          "awayScore": "2"
+        },
+        {
+          "id": "m23m0dpu-qw08bfg0",
+          "awayParticipantId": "m23m04o8-m630lk4e",
+          "homeParticipantId": "m23lzwpr-68sb2gwk",
+          "status": "NOT_PLAYED",
+          "homeParticipant": {
+            "id": "m23lzwpr-68sb2gwk",
+            "name": "صادق",
+            "teamId": 3,
+            "gamePlayedNumber": 0,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "goalDifference": {
+              "score": 0,
+              "concede": 0
+            },
+            "totalScore": 0,
+            "games": []
+          },
+          "awayParticipant": {
+            "id": "m23m04o8-m630lk4e",
+            "name": "رضا",
+            "teamId": 2,
+            "gamePlayedNumber": 0,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "goalDifference": {
+              "score": 0,
+              "concede": 0
+            },
+            "totalScore": 0,
+            "games": []
+          }
+        }
+      ],
+      "id": "fabd"
+    },
+    {
+      "id": "4627",
+      "weekGames": [
+        {
+          "id": "m23m0dpu-mpixp8qw",
+          "awayParticipantId": "m23m04o8-m630lk4e",
+          "homeParticipantId": "m23lzkpo-mnra1z6v",
+          "status": "NOT_PLAYED"
+        },
+        {
+          "id": "m23m0dpu-ikkcdpxx",
+          "awayParticipantId": "m23lzwpr-68sb2gwk",
+          "homeParticipantId": "m23m0d9v-wj9quqgi",
+          "status": "NOT_PLAYED"
+        }
+      ]
+    },
+    {
+      "id": "0ef1",
+      "weekGames": [
+        {
+          "id": "m23m0dpu-ps1hnplf",
+          "awayParticipantId": "m23lzwpr-68sb2gwk",
+          "homeParticipantId": "m23lzkpo-mnra1z6v",
+          "status": "NOT_PLAYED"
+        },
+        {
+          "id": "m23m0dpu-ltegz4ws",
+          "awayParticipantId": "m23m0d9v-wj9quqgi",
+          "homeParticipantId": "m23m04o8-m630lk4e",
+          "status": "NOT_PLAYED"
+        }
+      ]
+    }
+  ]
+}

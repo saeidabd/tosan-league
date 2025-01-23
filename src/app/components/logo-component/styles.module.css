@@ -1,0 +1,16 @@
+.logo {
+  max-width: 100%;
+  height: auto;
+  width: 4rem;
+  border-radius: 50% 50%;
+  transition: transform 0.3s ease;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
